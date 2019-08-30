@@ -93,8 +93,16 @@ NOTE: If you would like to run the Login step without as a standalone step pleas
   </con:testStep>
   <con:properties>
     <con:property>
+      <con:name>firstProperty</con:name>
+      <con:value>1</con:value>
+    </con:property>
+    <con:property>
       <con:name>anotherProperty</con:name>
-      <con:value>two</con:value>
+      <con:value>2</con:value>
+    </con:property>
+    <con:property>
+      <con:name>yetAnotherProperty</con:name>
+      <con:value>3</con:value>
     </con:property>
   </con:properties>
   <con:reportParameters/>
