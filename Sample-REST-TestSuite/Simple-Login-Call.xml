@@ -91,12 +91,7 @@ NOTE: If you would like to run the Login step without as a standalone step pleas
       <action>stop</action>
     </con:config>
   </con:testStep>
-  <con:properties>
-    <con:property>
-      <con:name>property1</con:name>
-      <con:value>value1</con:value>
-    </con:property>
-  </con:properties>
+  <con:properties/>
   <con:reportParameters/>
   <con:breakPoints>
     <con:testStepId>49e7dd6f-1ad0-4104-8d0a-2bc166ee29e4</con:testStepId>
